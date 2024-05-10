@@ -27,3 +27,8 @@
         color: var(--branco);
         display: block;
     }
+
+    .botao-secundario{
+      background-color: transparent;
+      color: var(--cinza);
+    }
